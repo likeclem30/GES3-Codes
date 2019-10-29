@@ -1,0 +1,2 @@
+g firm that serves the needs of both the public and private sector organizations. 
+We help organizations re-engineer their business processes to become more effective and efficient using information and communication technology through the provision of IT advisory services, Application and Database System development, Business and Systems integration, Project Management and Support Services.

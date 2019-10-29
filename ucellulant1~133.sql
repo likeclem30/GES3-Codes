@@ -1,0 +1,2 @@
+alter table G4_SUBSIDY_INPUT_ALLOC
+add datemodified timestamp default systimestamp;

@@ -1,0 +1,1 @@
+select lower(substr('GES3 N U M 236541',1,4)) tt from dual;

@@ -1,0 +1,1 @@
+grant insert on ucellulant1.g3_farmers to ucellulant2;

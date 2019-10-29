@@ -1,0 +1,1 @@
+select count(*) tt from g3_inboundgesmessages where processedid is null

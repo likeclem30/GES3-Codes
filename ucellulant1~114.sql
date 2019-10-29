@@ -1,0 +1,1 @@
+select * from g4_farmers_id_redemp;

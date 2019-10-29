@@ -1,0 +1,1 @@
+select count(*) tt from vc_soybean_farmers_2014_redemp;
